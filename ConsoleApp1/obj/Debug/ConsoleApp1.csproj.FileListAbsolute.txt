@@ -1,0 +1,7 @@
+D:\Documents\learning\Machine Coding\Dolat capitals\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Documents\learning\Machine Coding\Dolat capitals\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Documents\learning\Machine Coding\Dolat capitals\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Documents\learning\Machine Coding\Dolat capitals\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\Documents\learning\Machine Coding\Dolat capitals\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Documents\learning\Machine Coding\Dolat capitals\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Documents\learning\Machine Coding\Dolat capitals\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

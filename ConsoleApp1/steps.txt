@@ -1,0 +1,3 @@
+﻿1.create Model class.
+2.create functions for DAL
+3.create DAL class and take necessary ds(lists,set,dictionaries) there.
